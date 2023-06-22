@@ -2,3 +2,4 @@
 
 - [Корректный выход из программы (graceful exit)](graceful_exit.md)
 - [Доступ к ресурсам модуля (importlib.resources)](module_resources.md)
+- [Monkeypatching / Манкипатчинг](monkeypatching.md)
