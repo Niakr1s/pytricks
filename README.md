@@ -5,3 +5,4 @@
 - [Monkeypatching / Манкипатчинг](monkeypatching.md)
 - [Pytest fixtures](fixtures.md)
 - [Logging / Логгирование](logging.md)
+- [Visual Studio Code: Как отключить justMyCode в тестах](just_my_code.md)
